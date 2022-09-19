@@ -1,4 +1,4 @@
-## Oiii eu sou aSamira Amorim, atualmente sou product owner na Criasol
+## Oiii eu sou a Samira Amorim, 
 
 <div align="center">
   <a href="[https://github.com/Samorim](https://github.com/Samorim)">
