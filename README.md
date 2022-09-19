@@ -11,7 +11,7 @@
   <img align="center" alt="Samira-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Samira-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Samira-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>  
-    <img align="right" alt="Bia-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1009940967287173161/1014734862659371029/download20220803002140.png">
+  <img align="right" alt="Bia-pic" height="150" style="border-radius:50px" src="https://cdn.discordapp.com/attachments/1009940967287173161/1014734862659371029/download20220803002140.png">
 
 </div>
 
